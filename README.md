@@ -1,5 +1,5 @@
 ![](https://pbs.twimg.com/profile_banners/1611958524216766464/1673167912/1080x360)
-<hr>
+<hr width=2px>
 ### Hi there 👋, my name is Vivek
 <hr>
 I'm from India , an upcoming web-developer learning new things everyday . Most of the time is spent on youtube & Google while coding ..lol . I mostly like front-end web development but wanna be full stacked developer .🐱‍🚀
