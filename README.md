@@ -3,6 +3,8 @@
 
 I'm from India , an upcoming web-developer learning new things everyday . Most of the time is spent on youtube & Google while coding ..lol . I mostly like front-end web development but wanna be full stacked developer .🐱‍🚀
 
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekprajapati-exe&hide=contribs,prs)
+
 ##Skills and Experience
 
 
